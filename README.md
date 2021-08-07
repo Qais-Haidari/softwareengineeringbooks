@@ -1,5 +1,7 @@
 # Top 12 Software Engineering Books
 
+If you are midway through your career books will help you grow fast and climb up the ladder. Here's a list I am sharing from one of the software books I have read by Jon Sonmez. A short description is added to give you succinct insight before getting started with the actual reading.
+
 ## Code Complete: A Practical Handbook of Software Construction, Second Edition
 
 This is a foundational and pivotal book on writing good, clean, understandable code that clearly communicates what the code does without the need for excessive comments. It talks about how to debug code, create quality software, and many other topics every software developer should understand. The book is a little dated as far as methodologies go, but is still a must-read book for every serious software developer.
