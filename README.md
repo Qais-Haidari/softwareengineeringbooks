@@ -1,6 +1,6 @@
 # Top 12 Software Engineering Books
 
-If you are midway through your career books will help you grow fast and climb up the ladder. Here's a list I am sharing from one of the software books I have read by Jon Sonmez. A short description is added to give you succinct insight before getting started with the actual reading. Happy Learning!
+If you are midway through your career books will help you grow fast and climb up the ladder. Here's a list I am sharing from one of the software books I have read by Jon Sonmez. He only recommends the best of the best. A short description is added to give you succinct insight before getting started with the actual reading. Happy Learning!
 
 ## Code Complete: A Practical Handbook of Software Construction, Second Edition
 
